@@ -8,7 +8,7 @@ from langchain.chains.question_answering import load_qa_chain
 
 
 # ✅ Use your Gemini API key here
-GOOGLE_API_KEY = "AIzaSyCV4wYTTtBkKaUkR-fnHH4-K0PDiIailcw"
+GOOGLE_API_KEY = "Enter your API Key"
 
 # Streamlit UI
 st.header("My Internal Chatbot")
