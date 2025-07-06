@@ -33,14 +33,6 @@ This project is a chatbot app that lets users upload a PDF file and ask natural 
 - PyPDF2 for PDF parsing
 
 
-## 📂 Folder Structure
-Pdfchatbot/
-│
-├── chatboat.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-└── README.md # Project description (you are reading this!)
-
-
 ## ✅ How to Run This Project
 
 1. Make sure your API key is set inside the `chatboat.py` file.
